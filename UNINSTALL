@@ -1,0 +1,5 @@
+To uninstall, type "./uninstall.sh".
+This script deletes the file "/usr/games/numattack"
+
+if you installed "Number Attack!" into a different directory,
+don't use this script!

@@ -1,0 +1,4 @@
+To install, type "./install.sh".
+This script copys the compiled binary to /usr/games
+
+One can change the location of the install if desired... altho uninstall.sh will no longer work.
