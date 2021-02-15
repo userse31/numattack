@@ -1,0 +1,14 @@
+Number Attack requires the following dependencies:
+
+-libncurses/libcurses
+-build-essential
+-some sort of compiler (like gcc, which is programmed in the makefile by default.)
+
+With everything installed type "make" to compile numberattack.
+	-Don't plan on installing it or are copying the binary to another machine? You can stop here!
+
+Type "make install" to install number attack to the system. Type "numattack" from anywhere to run.
+
+Likewise, type "make uninstall" to uninstall number attack.
+
+Type "make clean" to remove any compiled binaries in the build directory.
